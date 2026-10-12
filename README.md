@@ -1,6 +1,6 @@
 # Hi there 👋
 
-05rahmatulloh/05rahmatulloh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+this is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Laporan Tugas Praktikum
 

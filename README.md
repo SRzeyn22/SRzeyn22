@@ -2,7 +2,7 @@
 
 | NO  |    Tgl     | Praktikum ke | Topik                                                                        |     Laporan     |       Repo       |
 | :-: | :--------: | :----------: | :--------------------------------------------------------------------------- | :-------------: | :--------------: |
-|  1  | 06-09-2026 |      01      | Desain UI Aplikasi Prakiraan Cuaca dengan Layout Row dan Column              |   [Laprak1](https://drive.google.com/drive/folders/1RWYLeRJO04QyEoVX3ke74ME3UX_SBk9Z)   | [Link Github](https://github.com/SRzeyn22/Mobile-Programming-Proggress/tree/main) |
+|  1  | 06-09-2026 |      01      | Installing Flutter                                                           |   [Laprak1](https://drive.google.com/drive/folders/1RWYLeRJO04QyEoVX3ke74ME3UX_SBk9Z)   | [Link Github](https://github.com/SRzeyn22/Mobile-Programming-Proggress/tree/main) |
 |  2  | 13-08-2026 |      02      | Widget Row dan Column                                                        |   [Laprak2](https://drive.google.com/drive/folders/1RWYLeRJO04QyEoVX3ke74ME3UX_SBk9Z)   | [Link Github](https://github.com/SRzeyn22/Mobile-Programming-Proggress/tree/main) |
 |  3  | 20-08-2026 |      03      | Pengaturan Layout Row dan Column di Flutter                                  |   [Laprak3](https://drive.google.com/drive/folders/1RWYLeRJO04QyEoVX3ke74ME3UX_SBk9Z)   | [Link Github](https://github.com/SRzeyn22/Mobile-Programming-Proggress/tree/main) |
 |  4  | 27-08-2026 |      04      | Widget Flexible dan Expanded                                                 |   [Laprak4](https://drive.google.com/drive/folders/1RWYLeRJO04QyEoVX3ke74ME3UX_SBk9Z)   | [Link Github](https://github.com/SRzeyn22/Mobile-Programming-Proggress/tree/main) |

@@ -2,7 +2,7 @@
 
 | NO  |    Tgl     | Praktikum ke | Topik                                                                        |     Laporan      |       Repo       |
 | :-: | :--------: | :----------: | :--------------------------------------------------------------------------- | :--------------: | :--------------: |
-|  1  | 13-08-2026 |      01      | Widget Row dan Column                                                        |   [Laprak2](https://drive.google.com/drive/folders/1RWYLeRJO04QyEoVX3ke74ME3UX_SBk9Z)   | [Link Github](https://github.com/SRzeyn22/Mobile-Programming-Proggress/tree/main/lib/Modul-1) |
+|  1  | 13-08-2026 |      01      | Widget Row dan Column                                                        |   [Laprak2](https://drive.google.com/drive/folders/1RWYLeRJO04QyEoVX3ke74ME3UX_SBk9Z)   | [Link Github](https://github.com/SRzeyn22/Mobile-Programming-Proggress/tree/main) |
 |  2  | 20-08-2025 |      02      | Pengaturan Layout Row dan Column di Flutter                                  |   [Laprak3](https://drive.google.com/drive/folders/1RWYLeRJO04QyEoVX3ke74ME3UX_SBk9Z)   | [Link Github](https://github.com/SRzeyn22/Mobile-Programming-Proggress/tree/main) |
 |  3  | 27-08-2026 |      02      | Widget Flexible dan Expanded                                                 |   [Laprak4](https://drive.google.com/drive/folders/1RWYLeRJO04QyEoVX3ke74ME3UX_SBk9Z)   | [Link Github](https://github.com/SRzeyn22/Mobile-Programming-Proggress/tree/main) |
 |  4  | 03-09-2026 |      03      | Widget SizedBox, Spacer, dan Card                                            |   [Laprak5](https://drive.google.com/drive/folders/1RWYLeRJO04QyEoVX3ke74ME3UX_SBk9Z)   | [Link Github](https://github.com/SRzeyn22/Mobile-Programming-Proggress/tree/main) |
